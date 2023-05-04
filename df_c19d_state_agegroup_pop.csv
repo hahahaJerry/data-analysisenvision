@@ -1,0 +1,562 @@
+State,COVID-19 Deaths,Age Group,Population,COVID-19 Deaths per Million
+Alabama,0,1-4 years,236464,0
+Alabama,0,15-24 years,640900,0
+Alabama,0,25-34 years,643540,0
+Alabama,16,35-44 years,592302,27.01
+Alabama,69,45-54 years,627458,109.97
+Alabama,0,5-14 years,608395,0
+Alabama,144,55-64 years,655179,219.79
+Alabama,258,65-74 years,487721,528.99
+Alabama,273,75-84 years,249308,1095.03
+Alabama,254,85 years and over,89865,2826.46
+Alabama,0,Under 1 year,56739,0
+Alaska,0,1-4 years,42450,0
+Alaska,0,15-24 years,99263,0
+Alaska,0,25-34 years,118865,0
+Alaska,0,35-44 years,94650,0
+Alaska,0,45-54 years,88117,0
+Alaska,0,5-14 years,101815,0
+Alaska,0,55-64 years,94602,0
+Alaska,0,65-74 years,58555,0
+Alaska,0,75-84 years,21603,0
+Alaska,0,85 years and over,6853,0
+Alaska,0,Under 1 year,10665,0
+Arizona,0,1-4 years,352383,0
+Arizona,0,15-24 years,965970,0
+Arizona,26,25-34 years,985845,26.37
+Arizona,36,35-44 years,880431,40.89
+Arizona,93,45-54 years,850790,109.31
+Arizona,0,5-14 years,928147,0
+Arizona,200,55-64 years,866277,230.87
+Arizona,304,65-74 years,726162,418.64
+Arizona,429,75-84 years,389813,1100.53
+Arizona,450,85 years and over,142275,3162.89
+Arizona,0,Under 1 year,83553,0
+Arkansas,0,1-4 years,153442,0
+Arkansas,0,15-24 years,399345,0
+Arkansas,0,25-34 years,396588,0
+Arkansas,0,35-44 years,368518,0
+Arkansas,0,45-54 years,368667,0
+Arkansas,0,5-14 years,394070,0
+Arkansas,38,55-64 years,384467,98.84
+Arkansas,28,65-74 years,296011,94.59
+Arkansas,68,75-84 years,156799,433.68
+Arkansas,69,85 years and over,59017,1169.15
+Arkansas,0,Under 1 year,36901,0
+California,0,1-4 years,1963980,0
+California,0,15-24 years,5257175,0
+California,33,25-34 years,6043799,5.46
+California,145,35-44 years,5255671,27.59
+California,370,45-54 years,5071974,72.95
+California,0,5-14 years,5036875,0
+California,757,55-64 years,4781226,158.33
+California,1185,65-74 years,3285414,360.69
+California,1432,75-84 years,1640026,873.16
+California,1864,85 years and over,743585,2506.77
+California,0,Under 1 year,477320,0
+Colorado,0,1-4 years,270729,0
+Colorado,0,15-24 years,741878,0
+Colorado,0,25-34 years,894422,0
+Colorado,10,35-44 years,780079,12.82
+Colorado,59,45-54 years,710171,83.08
+Colorado,0,5-14 years,713331,0
+Colorado,135,55-64 years,710600,189.98
+Colorado,299,65-74 years,500798,597.05
+Colorado,440,75-84 years,219067,2008.52
+Colorado,586,85 years and over,88364,6631.66
+Colorado,0,Under 1 year,66125,0
+Connecticut,0,1-4 years,148021,0
+Connecticut,0,15-24 years,485020,0
+Connecticut,0,25-34 years,445390,0
+Connecticut,13,35-44 years,423336,30.71
+Connecticut,82,45-54 years,494951,165.67
+Connecticut,0,5-14 years,413908,0
+Connecticut,305,55-64 years,511805,595.93
+Connecticut,660,65-74 years,343570,1921.01
+Connecticut,1004,75-84 years,179680,5587.71
+Connecticut,1729,85 years and over,91871,18819.87
+Connecticut,0,Under 1 year,35113,0
+Delaware,0,1-4 years,44166,0
+Delaware,0,15-24 years,118712,0
+Delaware,0,25-34 years,129063,0
+Delaware,0,35-44 years,111468,0
+Delaware,24,45-54 years,122491,195.93
+Delaware,0,5-14 years,113901,0
+Delaware,43,55-64 years,135639,317.02
+Delaware,96,65-74 years,108194,887.3
+Delaware,126,75-84 years,53055,2374.89
+Delaware,182,85 years and over,19837,9174.77
+Delaware,0,Under 1 year,10645,0
+District of Columbia,0,1-4 years,35747,0
+District of Columbia,0,15-24 years,89824,0
+District of Columbia,0,25-34 years,164087,0
+District of Columbia,10,35-44 years,105674,94.63
+District of Columbia,49,45-54 years,75453,649.41
+District of Columbia,0,5-14 years,66195,0
+District of Columbia,88,55-64 years,70302,1251.74
+District of Columbia,155,65-74 years,49104,3156.57
+District of Columbia,121,75-84 years,24046,5032.02
+District of Columbia,118,85 years and over,12153,9709.54
+District of Columbia,0,Under 1 year,9870,0
+Florida,0,1-4 years,921143,0
+Florida,0,15-24 years,2476245,0
+Florida,0,25-34 years,2788255,0
+Florida,53,35-44 years,2568764,20.63
+Florida,128,45-54 years,2746372,46.61
+Florida,0,5-14 years,2363834,0
+Florida,287,55-64 years,2854601,100.54
+Florida,672,65-74 years,2397902,280.24
+Florida,935,75-84 years,1388750,673.27
+Florida,1106,85 years and over,571419,1935.53
+Florida,0,Under 1 year,222040,0
+Georgia,0,1-4 years,530462,0
+Georgia,0,15-24 years,1445022,0
+Georgia,17,25-34 years,1473246,11.54
+Georgia,28,35-44 years,1372602,20.4
+Georgia,136,45-54 years,1411438,96.36
+Georgia,0,5-14 years,1413662,0
+Georgia,286,55-64 years,1285682,222.45
+Georgia,536,65-74 years,895419,598.6
+Georgia,631,75-84 years,418357,1508.28
+Georgia,584,85 years and over,146633,3982.73
+Georgia,0,Under 1 year,126952,0
+Hawaii,0,1-4 years,70480,0
+Hawaii,0,15-24 years,168130,0
+Hawaii,0,25-34 years,203006,0
+Hawaii,0,35-44 years,180510,0
+Hawaii,0,45-54 years,170624,0
+Hawaii,0,5-14 years,168823,0
+Hawaii,0,55-64 years,180727,0
+Hawaii,0,65-74 years,148933,0
+Hawaii,0,75-84 years,70990,0
+Hawaii,0,85 years and over,41044,0
+Hawaii,0,Under 1 year,17224,0
+Idaho,0,1-4 years,93991,0
+Idaho,0,15-24 years,239400,0
+Idaho,0,25-34 years,231382,0
+Idaho,0,35-44 years,220029,0
+Idaho,0,45-54 years,199925,0
+Idaho,0,5-14 years,254001,0
+Idaho,0,55-64 years,214850,0
+Idaho,13,65-74 years,168241,77.27
+Idaho,28,75-84 years,80622,347.3
+Idaho,38,85 years and over,29419,1291.68
+Idaho,0,Under 1 year,22348,0
+Illinois,0,1-4 years,612996,0
+Illinois,0,15-24 years,1675707,0
+Illinois,51,25-34 years,1769781,28.82
+Illinois,139,35-44 years,1639725,84.77
+Illinois,368,45-54 years,1639850,224.41
+Illinois,0,5-14 years,1597250,0
+Illinois,808,55-64 years,1665187,485.23
+Illinois,1366,65-74 years,1142253,1195.88
+Illinois,1585,75-84 years,584034,2713.88
+Illinois,1961,85 years and over,266674,7353.55
+Illinois,0,Under 1 year,147623,0
+Indiana,0,1-4 years,338005,0
+Indiana,0,15-24 years,926867,0
+Indiana,0,25-34 years,877438,0
+Indiana,11,35-44 years,822202,13.38
+Indiana,74,45-54 years,839824,88.11
+Indiana,0,5-14 years,878696,0
+Indiana,249,55-64 years,873286,285.13
+Indiana,538,65-74 years,615581,873.97
+Indiana,714,75-84 years,308630,2313.45
+Indiana,905,85 years and over,130810,6918.43
+Indiana,0,Under 1 year,80539,0
+Iowa,0,1-4 years,159927,0
+Iowa,0,15-24 years,441900,0
+Iowa,0,25-34 years,397715,0
+Iowa,0,35-44 years,379935,0
+Iowa,14,45-54 years,371331,37.7
+Iowa,0,5-14 years,409679,0
+Iowa,77,55-64 years,417537,184.41
+Iowa,145,65-74 years,300873,481.93
+Iowa,144,75-84 years,159866,900.75
+Iowa,232,85 years and over,79091,2933.33
+Iowa,0,Under 1 year,38291,0
+Kansas,0,1-4 years,152896,0
+Kansas,0,15-24 years,413294,0
+Kansas,0,25-34 years,382884,0
+Kansas,0,35-44 years,356322,0
+Kansas,0,45-54 years,335937,0
+Kansas,0,5-14 years,398067,0
+Kansas,39,55-64 years,373425,104.44
+Kansas,45,65-74 years,262857,171.2
+Kansas,52,75-84 years,133848,388.5
+Kansas,94,85 years and over,65536,1434.33
+Kansas,0,Under 1 year,36439,0
+Kentucky,0,1-4 years,221855,0
+Kentucky,0,15-24 years,588635,0
+Kentucky,0,25-34 years,585107,0
+Kentucky,0,35-44 years,551949,0
+Kentucky,0,45-54 years,576814,0
+Kentucky,0,5-14 years,562514,0
+Kentucky,54,55-64 years,597345,90.4
+Kentucky,124,65-74 years,435205,284.92
+Kentucky,135,75-84 years,214803,628.48
+Kentucky,209,85 years and over,80618,2592.47
+Kentucky,0,Under 1 year,53557,0
+Louisiana,0,1-4 years,247264,0
+Louisiana,0,15-24 years,605321,0
+Louisiana,14,25-34 years,667182,20.98
+Louisiana,61,35-44 years,583526,104.54
+Louisiana,148,45-54 years,563306,262.73
+Louisiana,0,5-14 years,608925,0
+Louisiana,395,55-64 years,606266,651.53
+Louisiana,645,65-74 years,427946,1507.2
+Louisiana,836,75-84 years,209437,3991.65
+Louisiana,757,85 years and over,81050,9339.91
+Louisiana,0,Under 1 year,59755,0
+Maine,0,1-4 years,51873,0
+Maine,0,15-24 years,152415,0
+Maine,0,25-34 years,160340,0
+Maine,0,35-44 years,152383,0
+Maine,0,45-54 years,180173,0
+Maine,0,5-14 years,140831,0
+Maine,0,55-64 years,211981,0
+Maine,17,65-74 years,163367,104.06
+Maine,32,75-84 years,79213,403.97
+Maine,44,85 years and over,33419,1316.62
+Maine,0,Under 1 year,12409,0
+Maryland,0,1-4 years,293661,0
+Maryland,0,15-24 years,758054,0
+Maryland,29,25-34 years,834612,34.75
+Maryland,63,35-44 years,773801,81.42
+Maryland,152,45-54 years,818927,185.61
+Maryland,0,5-14 years,748950,0
+Maryland,409,55-64 years,812734,503.24
+Maryland,650,65-74 years,545452,1191.67
+Maryland,928,75-84 years,267281,3472
+Maryland,1111,85 years and over,118403,9383.21
+Maryland,0,Under 1 year,70843,0
+Massachusetts,0,1-4 years,289374,0
+Massachusetts,0,15-24 years,949473,0
+Massachusetts,0,25-34 years,992913,0
+Massachusetts,27,35-44 years,840652,32.12
+Massachusetts,139,45-54 years,921531,150.84
+Massachusetts,0,5-14 years,759152,0
+Massachusetts,498,55-64 years,939167,530.26
+Massachusetts,1148,65-74 years,653829,1755.81
+Massachusetts,2087,75-84 years,325419,6413.27
+Massachusetts,3613,85 years and over,159852,22602.16
+Massachusetts,0,Under 1 year,70787,0
+Michigan,0,1-4 years,461862,0
+Michigan,0,15-24 years,1348374,0
+Michigan,36,25-34 years,1296651,27.76
+Michigan,78,35-44 years,1163189,67.06
+Michigan,302,45-54 years,1290060,234.1
+Michigan,0,5-14 years,1206070,0
+Michigan,666,55-64 years,1402804,474.76
+Michigan,1303,65-74 years,1004702,1296.9
+Michigan,1441,75-84 years,497916,2894.06
+Michigan,1630,85 years and over,213986,7617.32
+Michigan,0,Under 1 year,110301,0
+Minnesota,0,1-4 years,286725,0
+Minnesota,0,15-24 years,717874,0
+Minnesota,0,25-34 years,760925,0
+Minnesota,0,35-44 years,710265,0
+Minnesota,0,45-54 years,691491,0
+Minnesota,0,5-14 years,731086,0
+Minnesota,90,55-64 years,754445,119.29
+Minnesota,203,65-74 years,510180,397.9
+Minnesota,369,75-84 years,257938,1430.58
+Minnesota,629,85 years and over,121684,5169.13
+Minnesota,0,Under 1 year,68566,0
+Mississippi,0,1-4 years,149599,0
+Mississippi,0,15-24 years,412694,0
+Mississippi,0,25-34 years,394306,0
+Mississippi,21,35-44 years,364998,57.53
+Mississippi,74,45-54 years,368793,200.65
+Mississippi,0,5-14 years,399894,0
+Mississippi,155,55-64 years,385893,401.67
+Mississippi,235,65-74 years,280585,837.54
+Mississippi,275,75-84 years,141549,1942.79
+Mississippi,247,85 years and over,52341,4719.05
+Mississippi,0,Under 1 year,35878,0
+Missouri,0,1-4 years,300455,0
+Missouri,0,15-24 years,800615,0
+Missouri,0,25-34 years,823505,0
+Missouri,0,35-44 years,744539,0
+Missouri,19,45-54 years,751688,25.28
+Missouri,0,5-14 years,769887,0
+Missouri,91,55-64 years,829541,109.7
+Missouri,180,65-74 years,592577,303.76
+Missouri,246,75-84 years,309503,794.82
+Missouri,349,85 years and over,131884,2646.26
+Missouri,0,Under 1 year,72258,0
+Montana,0,1-4 years,50437,0
+Montana,0,15-24 years,136536,0
+Montana,0,25-34 years,137463,0
+Montana,0,35-44 years,126396,0
+Montana,0,45-54 years,120278,0
+Montana,0,5-14 years,128807,0
+Montana,0,55-64 years,151387,0
+Montana,0,65-74 years,119583,0
+Montana,0,75-84 years,56624,0
+Montana,0,85 years and over,22695,0
+Montana,0,Under 1 year,12099,0
+Nebraska,0,1-4 years,107159,0
+Nebraska,0,15-24 years,268759,0
+Nebraska,0,25-34 years,255723,0
+Nebraska,0,35-44 years,239311,0
+Nebraska,0,45-54 years,219971,0
+Nebraska,0,5-14 years,265822,0
+Nebraska,35,55-64 years,243048,144
+Nebraska,48,65-74 years,172527,278.22
+Nebraska,52,75-84 years,88061,590.5
+Nebraska,60,85 years and over,43078,1392.82
+Nebraska,0,Under 1 year,25809,0
+Nevada,0,1-4 years,150214,0
+Nevada,0,15-24 years,363162,0
+Nevada,0,25-34 years,445372,0
+Nevada,0,35-44 years,403153,0
+Nevada,17,45-54 years,395339,43
+Nevada,0,5-14 years,388629,0
+Nevada,65,55-64 years,376561,172.61
+Nevada,131,65-74 years,293252,446.71
+Nevada,139,75-84 years,139567,995.94
+Nevada,66,85 years and over,43362,1522.07
+Nevada,0,Under 1 year,35781,0
+New Hampshire,0,1-4 years,51803,0
+New Hampshire,0,15-24 years,174813,0
+New Hampshire,0,25-34 years,169075,0
+New Hampshire,0,35-44 years,154674,0
+New Hampshire,0,45-54 years,190242,0
+New Hampshire,0,5-14 years,145474,0
+New Hampshire,12,55-64 years,212515,56.47
+New Hampshire,51,65-74 years,146933,347.1
+New Hampshire,97,75-84 years,68224,1421.79
+New Hampshire,167,85 years and over,30488,5477.56
+New Hampshire,0,Under 1 year,12217,0
+New Jersey,0,1-4 years,418264,0
+New Jersey,0,15-24 years,1108845,0
+New Jersey,100,25-34 years,1155839,86.52
+New Jersey,246,35-44 years,1139300,215.92
+New Jersey,709,45-54 years,1235874,573.68
+New Jersey,0,5-14 years,1092176,0
+New Jersey,1709,55-64 years,1219331,1401.59
+New Jersey,2611,65-74 years,810098,3223.07
+New Jersey,3519,75-84 years,426136,8257.93
+New Jersey,4615,85 years and over,202293,22813.44
+New Jersey,0,Under 1 year,100364,0
+New Mexico,0,1-4 years,100578,0
+New Mexico,0,15-24 years,280599,0
+New Mexico,12,25-34 years,283835,42.28
+New Mexico,19,35-44 years,250784,75.76
+New Mexico,28,45-54 years,240865,116.25
+New Mexico,0,5-14 years,274763,0
+New Mexico,55,55-64 years,274147,200.62
+New Mexico,80,65-74 years,217884,367.17
+New Mexico,100,75-84 years,107134,933.41
+New Mexico,145,85 years and over,41171,3521.9
+New Mexico,0,Under 1 year,23668,0
+New York,0,1-4 years,912559,0
+New York,25,15-24 years,2490630,10.04
+New York,219,25-34 years,2878793,76.07
+New York,660,35-44 years,2431864,271.4
+New York,1840,45-54 years,2555129,720.12
+New York,0,5-14 years,2237196,0
+New York,4508,55-64 years,2594621,1737.44
+New York,7173,65-74 years,1809120,3964.91
+New York,8149,75-84 years,948095,8595.13
+New York,8760,85 years and over,456319,19197.1
+New York,0,Under 1 year,227883,0
+North Carolina,0,1-4 years,491578,0
+North Carolina,0,15-24 years,1382049,0
+North Carolina,0,25-34 years,1393148,0
+North Carolina,10,35-44 years,1295905,7.72
+North Carolina,55,45-54 years,1377840,39.92
+North Carolina,0,5-14 years,1292302,0
+North Carolina,93,55-64 years,1342983,69.25
+North Carolina,210,65-74 years,1010458,207.83
+North Carolina,293,75-84 years,493058,594.25
+North Carolina,306,85 years and over,185749,1647.38
+North Carolina,0,Under 1 year,118550,0
+North Dakota,0,1-4 years,43893,0
+North Dakota,0,15-24 years,110861,0
+North Dakota,0,25-34 years,114800,0
+North Dakota,0,35-44 years,90402,0
+North Dakota,0,45-54 years,80005,0
+North Dakota,0,5-14 years,97854,0
+North Dakota,0,55-64 years,94823,0
+North Dakota,0,65-74 years,64222,0
+North Dakota,18,75-84 years,33619,535.41
+North Dakota,30,85 years and over,18796,1596.08
+North Dakota,0,Under 1 year,10802,0
+Ohio,0,1-4 years,560787,0
+Ohio,0,15-24 years,1520799,0
+Ohio,0,25-34 years,1545280,0
+Ohio,15,35-44 years,1391192,10.78
+Ohio,66,45-54 years,1484877,44.45
+Ohio,0,5-14 years,1445935,0
+Ohio,238,55-64 years,1611548,147.68
+Ohio,470,65-74 years,1150375,408.56
+Ohio,703,75-84 years,588310,1194.95
+Ohio,889,85 years and over,256337,3468.09
+Ohio,0,Under 1 year,134002,0
+Oklahoma,0,1-4 years,210076,0
+Oklahoma,0,15-24 years,537830,0
+Oklahoma,0,25-34 years,543218,0
+Oklahoma,0,35-44 years,490388,0
+Oklahoma,0,45-54 years,460310,0
+Oklahoma,0,5-14 years,537907,0
+Oklahoma,32,55-64 years,493444,64.85
+Oklahoma,79,65-74 years,358646,220.27
+Oklahoma,71,75-84 years,187711,378.24
+Oklahoma,102,85 years and over,73196,1393.52
+Oklahoma,0,Under 1 year,50353,0
+Oregon,0,1-4 years,188955,0
+Oregon,0,15-24 years,512608,0
+Oregon,0,25-34 years,596485,0
+Oregon,0,35-44 years,559767,0
+Oregon,0,45-54 years,512674,0
+Oregon,0,5-14 years,491789,0
+Oregon,13,55-64 years,544485,23.88
+Oregon,41,65-74 years,448192,91.48
+Oregon,37,75-84 years,206474,179.2
+Oregon,66,85 years and over,84025,785.48
+Oregon,0,Under 1 year,45259,0
+Pennsylvania,0,1-4 years,567551,0
+Pennsylvania,0,15-24 years,1625349,0
+Pennsylvania,0,25-34 years,1701106,0
+Pennsylvania,50,35-44 years,1498545,33.37
+Pennsylvania,212,45-54 years,1652781,128.27
+Pennsylvania,0,5-14 years,1480847,0
+Pennsylvania,621,55-64 years,1809805,343.13
+Pennsylvania,1245,65-74 years,1310750,949.84
+Pennsylvania,1770,75-84 years,690637,2562.85
+Pennsylvania,3004,85 years and over,334243,8987.47
+Pennsylvania,0,Under 1 year,135446,0
+Rhode Island,0,1-4 years,43856,0
+Rhode Island,0,15-24 years,148042,0
+Rhode Island,0,25-34 years,146231,0
+Rhode Island,0,35-44 years,124186,0
+Rhode Island,0,45-54 years,139370,0
+Rhode Island,0,5-14 years,113661,0
+Rhode Island,64,55-64 years,149158,429.08
+Rhode Island,160,65-74 years,102595,1559.53
+Rhode Island,227,75-84 years,51807,4381.65
+Rhode Island,397,85 years and over,27852,14253.91
+Rhode Island,0,Under 1 year,10557,0
+South Carolina,0,1-4 years,236459,0
+South Carolina,0,15-24 years,655968,0
+South Carolina,0,25-34 years,673890,0
+South Carolina,0,35-44 years,611397,0
+South Carolina,23,45-54 years,646458,35.58
+South Carolina,0,5-14 years,625809,0
+South Carolina,98,55-64 years,678299,144.48
+South Carolina,173,65-74 years,549831,314.64
+South Carolina,227,75-84 years,261109,869.37
+South Carolina,179,85 years and over,88975,2011.8
+South Carolina,0,Under 1 year,55932,0
+South Dakota,0,1-4 years,50023,0
+South Dakota,0,15-24 years,117259,0
+South Dakota,0,25-34 years,116095,0
+South Dakota,0,35-44 years,103909,0
+South Dakota,0,45-54 years,97081,0
+South Dakota,0,5-14 years,121644,0
+South Dakota,12,55-64 years,117261,102.34
+South Dakota,0,65-74 years,85050,0
+South Dakota,10,75-84 years,40813,245.02
+South Dakota,33,85 years and over,20991,1572.1
+South Dakota,0,Under 1 year,12109,0
+Tennessee,0,1-4 years,327600,0
+Tennessee,0,15-24 years,870982,0
+Tennessee,0,25-34 years,931067,0
+Tennessee,0,35-44 years,840267,0
+Tennessee,18,45-54 years,882795,20.39
+Tennessee,0,5-14 years,842454,0
+Tennessee,72,55-64 years,886174,81.25
+Tennessee,118,65-74 years,661602,178.35
+Tennessee,157,75-84 years,328033,478.61
+Tennessee,117,85 years and over,120062,974.5
+Tennessee,0,Under 1 year,78974,0
+Texas,0,1-4 years,1633461,0
+Texas,0,15-24 years,4030886,0
+Texas,29,25-34 years,4236328,6.85
+Texas,73,35-44 years,3881772,18.81
+Texas,204,45-54 years,3552957,57.42
+Texas,0,5-14 years,4139166,0
+Texas,453,55-64 years,3234290,140.06
+Texas,627,65-74 years,2166529,289.4
+Texas,661,75-84 years,1035292,638.47
+Texas,608,85 years and over,400499,1518.11
+Texas,0,Under 1 year,390665,0
+Utah,0,1-4 years,202844,0
+Utah,0,15-24 years,509891,0
+Utah,0,25-34 years,464908,0
+Utah,0,35-44 years,434614,0
+Utah,0,45-54 years,322173,0
+Utah,0,5-14 years,525877,0
+Utah,11,55-64 years,300160,36.65
+Utah,38,65-74 years,209871,181.06
+Utah,26,75-84 years,102831,252.84
+Utah,36,85 years and over,37776,952.99
+Utah,0,Under 1 year,50160,0
+Vermont,0,1-4 years,24049,0
+Vermont,0,15-24 years,88478,0
+Vermont,0,25-34 years,74091,0
+Vermont,0,35-44 years,70601,0
+Vermont,0,45-54 years,80719,0
+Vermont,0,5-14 years,65033,0
+Vermont,0,55-64 years,96489,0
+Vermont,11,65-74 years,72893,150.91
+Vermont,23,75-84 years,33893,678.61
+Vermont,15,85 years and over,14421,1040.15
+Vermont,0,Under 1 year,5632,0
+Virginia,0,1-4 years,411663,0
+Virginia,0,15-24 years,1121096,0
+Virginia,0,25-34 years,1190306,0
+Virginia,14,35-44 years,1104883,12.67
+Virginia,73,45-54 years,1125384,64.87
+Virginia,0,5-14 years,1042819,0
+Virginia,209,55-64 years,1106872,188.82
+Virginia,381,65-74 years,779038,489.06
+Virginia,546,75-84 years,384471,1420.13
+Virginia,706,85 years and over,151892,4648.04
+Virginia,0,Under 1 year,99261,0
+Washington,0,1-4 years,372039,0
+Washington,0,15-24 years,928312,0
+Washington,0,25-34 years,1153357,0
+Washington,11,35-44 years,1002869,10.97
+Washington,40,45-54 years,933531,42.85
+Washington,0,5-14 years,929718,0
+Washington,94,55-64 years,960871,97.83
+Washington,226,65-74 years,708808,318.85
+Washington,320,75-84 years,322041,993.66
+Washington,426,85 years and over,133383,3193.81
+Washington,0,Under 1 year,90662,0
+West Virginia,0,1-4 years,77386,0
+West Virginia,0,15-24 years,220321,0
+West Virginia,0,25-34 years,215362,0
+West Virginia,0,35-44 years,216760,0
+West Virginia,0,45-54 years,234453,0
+West Virginia,0,5-14 years,205431,0
+West Virginia,0,55-64 years,258370,0
+West Virginia,25,65-74 years,212837,117.46
+West Virginia,26,75-84 years,107141,242.67
+West Virginia,34,85 years and over,39900,852.13
+West Virginia,0,Under 1 year,17871,0
+Wisconsin,0,1-4 years,269794,0
+Wisconsin,0,15-24 years,774339,0
+Wisconsin,0,25-34 years,737377,0
+Wisconsin,0,35-44 years,704716,0
+Wisconsin,28,45-54 years,737557,37.96
+Wisconsin,0,5-14 years,719147,0
+Wisconsin,93,55-64 years,820577,113.33
+Wisconsin,166,65-74 years,571623,290.4
+Wisconsin,179,75-84 years,285214,627.6
+Wisconsin,240,85 years and over,128636,1865.73
+Wisconsin,0,Under 1 year,64588,0
+Wyoming,0,1-4 years,29089,0
+Wyoming,0,15-24 years,74279,0
+Wyoming,0,25-34 years,77778,0
+Wyoming,0,35-44 years,72713,0
+Wyoming,0,45-54 years,64880,0
+Wyoming,0,5-14 years,76951,0
+Wyoming,0,55-64 years,79849,0
+Wyoming,0,65-74 years,58168,0
+Wyoming,0,75-84 years,26526,0
+Wyoming,0,85 years and over,10681,0
+Wyoming,0,Under 1 year,6823,0

@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>疫情大数据展示</title>
+    <link rel="stylesheet" href="css/wodry.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/public.css">
+
+    <script src="js/jquery.js"></script>
+    <script>
+        $(function () {
+            $('.myscroll').myScroll({
+                speed: 60, //数值越大，速度越慢
+                rowHeight: 38 //li的高度
+            });
+        });
+
+        $(document).ready(function () {
+            var whei = $(window).width()
+            $("html").css({ fontSize: whei / 22 });
+            $(window).resize(function () {
+                var whei = $(window).width();
+                $("html").css({ fontSize: whei / 22 })
+            });
+        });
+    </script>
+</head>
+<body>
+
+<div class="main">
+    <div class="header">
+        <div class="header-left fl" id="time"></div>
+        <div class="header-center fl">
+            <div class="header-title">
+                疫情大数据展示
+            </div>
+            <div class="header-img"></div>
+        </div>
+        <div class="header-right fl"></div>
+        <div class="header-bottom fl"></div>
+
+    </div>
+
+    <div class="center">
+        <div class="center-left fl">
+            <div class="left-top rightTop border">
+                <!--<h1 id="ceshi">数据可视化</h1>-->
+                <div class="title">疫情一览</div>
+                <div class="top-list">
+                    <p>随着国际新冠病毒感染人数不断增加，国内防疫压力不断增大，并且随着秋冬季节的来临，国内也不断有地区出现或零星或聚集性病例。以美国的为例，利用大数据技术，对疫情的数据进行可视化展示，减轻人员筛查的压力</p>
+                    <ul>
+                        <li>Cases：106,542,201</li>
+                        <li>Deaths：1,159,011</li>
+                        <li>Recovered：104,471,953</li>
+                    </ul>
+                </div>
+
+            </div>
+            <div class="left-cen rightTop border">
+                <div class="title">2020各州累计死亡人数</div>
+
+                <ul class="company" id="ceshi">
+
+                    <li class="wodryRX0">
+                        <span>NO.1</span>
+                        New York，死亡累计26584人</li><br/>
+                    <li class="wodryRX1">NO.2
+                        New Jersey，死亡累计9116人</li>
+                    <br/>
+                    <li class="wodryRX2">NO.3
+                        Massachusetts，死亡累计4840人</li>
+                    <br/>
+                    <li class="wodryRX3">NO.4
+                        Michigan，死亡累计4526人</li>
+                    <br/>
+                    <li class="wodryRX4">NO.5
+                        Pennsylvania，死亡累计3793人</li>
+                </ul>
+
+            </div>
+            <div class="left-bottom rightTop border">
+                <div class="title">2020各州累计确诊人数</div>
+                <div class="bottom-b">
+                    <div id="chart3" class="allnav"></div>
+                </div>
+
+            </div>
+        </div>
+        <div class="center-cen fl">
+            <div class="cen-top rightTop border">
+
+                <div class="top-bottom">
+                    <div id="map" class="allnav" style="height: 7rem"></div>
+                </div>
+
+
+            </div>
+            <div class="cen-bottom rightTop border">
+                <div class="title">月统计</div>
+                <div class="bottom-b">
+                    <div id="chart4" class="allnav"></div>
+                </div>
+
+            </div>
+        </div>
+        <div class="center-right fr">
+            <div class="right-top rightTop border">
+                <div class="title">2023 累计确诊人数排行</div>
+
+                <div class="echart wenzi">
+                    <div class="gun">
+                    <span>排名</span>
+                    <span>洲</span>
+                    <span>人数</span>
+                </div>
+                    <div id="FontScroll" class="myscroll">
+                        <ul>
+                            <li>
+                                <div class="fontInner clearfix">
+                                    <span>
+                                        <b>1</b>
+                                    </span>
+                                    <span>California</span>
+                                    <span>3723182</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="fontInner clearfix">
+                                    <span>
+                                        <b>2</b>
+                                    </span>
+                                    <span>New York</span>
+                                    <span>3252967</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="fontInner clearfix">
+                                    <span>
+                                        <b>3</b>
+                                    </span>
+                                    <span>Florida</span>
+                                    <span>1547142</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="fontInner clearfix">
+                                    <span>
+                                        <b>4</b>
+                                    </span>
+                                    <span>Illinois</span>
+                                    <span>1541156</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="fontInner clearfix">
+                                    <span>
+                                        <b>5</b>
+                                    </span>
+                                    <span>Arizona</span>
+                                    <span>1533874</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="fontInner clearfix">
+                                    <span>
+                                        <b>6</b>
+                                    </span>
+                                    <span>Texas</span>
+                                    <span>1312744</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="fontInner clearfix">
+                                    <span>
+                                        <b>7</b>
+                                    </span>
+                                    <span>Nevada</span>
+                                    <span>673021</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="fontInner clearfix">
+                                    <span>
+                                        <b>8</b>
+                                    </span>
+                                    <span>Washington</span>
+                                    <span>553261</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="fontInner clearfix">
+                                    <span>
+                                        <b>9</b>
+                                    </span>
+                                    <span>Michigan</span>
+                                    <span>539858</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="fontInner clearfix">
+                                    <span>
+                                        <b>10</b>
+                                    </span>
+                                    <span>Massachusetts</span>
+                                    <span>438519</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="fontInner clearfix">
+                                    <span>
+                                        <b>11</b>
+                                    </span>
+                                    <span>Utah</span>
+                                    <span>411491</span>
+
+                                </div>
+                            </li>
+                            <li>
+                                <div class="fontInner clearfix">
+                                    <span>
+                                        <b>12</b>
+                                    </span>
+                                    <span>Pennsylvania</span>
+                                    <span>395740</span>
+
+                                </div>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+            <div class="right-cen border">
+                <div class="title">各年龄段占比</div>
+                <div class="right-cen-cent">
+                    <div id="chart2" class="allnav"></div>
+                </div>
+
+            </div>
+            <div class="right-bottom rightTop border">
+                <div class="title">种族疫情信息曲线</div>
+                <div class="chat">
+                    <div id="chart5" class="allnav"></div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/echarts.min.js"></script>
+<script src="js/wodry.min.js"></script>
+<script src="js/fontscroll.js"></script>
+<script src="js/echarts.js"></script>
+<!--<script src="js/china.js"></script>-->
+<!--<script src="js/map.js"></script>-->
+<!--<script src="js/mymap.js"></script>-->
+<script>
+    /*$('#ceshi').wodry({
+
+        animation: 'rotateX',
+
+        delay: 1000,
+
+        animationDuration: 800
+
+    });*/
+    /*window.onload = function () {
+        setInterval(function () {
+            var hs=document.getElementById("ceshi");
+            var hstyle=hs.style.transform;
+            if(hstyle=='rotateX(-360deg)'){
+                //console.log(1)
+                hs.style.transform='rotateX(0deg)';
+                hs.style.transform='transform 500ms cubic-bezier(0.55, 0.18, 0.92, 0.46) 0s;'
+            }else {
+                hs.style.transform='rotateX(-360deg)';
+                hs.style.transition="all 2s";
+            }
+        }, 5000);
+    };*/
+    var counter = 3000;
+    var ulist=document.getElementById("ceshi").getElementsByTagName("li");
+    for (var i=0;i<ulist.length;i++){
+        //console.log(ulist[i].className);
+        var liclass=ulist[i].className;
+        var a= $('.'+liclass+'').wodry({
+            animation: 'rotateX',
+            delay: counter,
+            animationDuration: 1000
+        });
+        if(counter>3050){
+            counter=0                                   ;
+        }else {
+            counter +=5;
+        }
+        //console.log(counter);
+
+    }
+
+    //顶部时间
+    function getTime(){
+        var myDate = new Date();
+        var myYear = myDate.getFullYear(); //获取完整的年份(4位,1970-????)
+        var myMonth = myDate.getMonth()+1; //获取当前月份(0-11,0代表1月)
+        var myToday = myDate.getDate(); //获取当前日(1-31)
+        var myDay = myDate.getDay(); //获取当前星期X(0-6,0代表星期天)
+        var myHour = myDate.getHours(); //获取当前小时数(0-23)
+        var myMinute = myDate.getMinutes(); //获取当前分钟数(0-59)
+        var mySecond = myDate.getSeconds(); //获取当前秒数(0-59)
+        var week = ['星期日','星期一','星期二','星期三','星期四','星期五','星期六'];
+        var nowTime;
+        nowTime = myYear+'-'+fillZero(myMonth)+'-'+fillZero(myToday)+'&nbsp;&nbsp;'+fillZero(myHour)+':'+fillZero(myMinute)+':'+fillZero(mySecond)+'&nbsp;&nbsp;'+week[myDay]+'&nbsp;&nbsp;';
+        //console.log(nowTime);
+        $('#time').html(nowTime);
+    };
+    function fillZero(str){
+        var realNum;
+        if(str<10){
+            realNum	= '0'+str;                                                                   
+        }else{
+            realNum	= str;
+        }
+        return realNum;
+    }
+    setInterval(getTime,1000);
+
+</script>
+
+</body>
+</html>
